@@ -1,0 +1,73 @@
+{
+	"name": "Caio Souza",
+	"job": "Analista de TI",
+	"github": "capsxy",
+	"playlists": {
+		"tecnologia": [
+			{
+				"title": "Estão deixando a gente sonhar! - Ubuntu 22.10 Kinetic Kudu - Review",
+				"url": "https://www.youtube.com/watch?v=5WOQKL7tIfc",
+				"thumb": "https://img.youtube.com/vi/5WOQKL7tIfc/hqdefault.jpg"
+			},
+			{
+				"title": "MONTANDO UM SETUP COM O NOVO CORE i9 13900K!",
+				"url": "https://www.youtube.com/watch?v=BYuJU5NPAhY",
+				"thumb": "https://img.youtube.com/vi/BYuJU5NPAhY/hqdefault.jpg"
+			},
+			{
+				"title": "Linux brasileiro! Xiva Studio, o sistema para produtores!",
+				"url": "https://www.youtube.com/watch?v=LUCb62fwRP0",
+				"thumb": "https://img.youtube.com/vi/LUCb62fwRP0/hqdefault.jpg"
+			},
+			{
+				"title": "Como funcionam as LINGUAGENS de PROGRAMAÇÃO #SagaDosComputadores Ep. 8",
+				"url": "https://www.youtube.com/watch?v=22nd99SLgNA",
+				"thumb": "https://img.youtube.com/vi/22nd99SLgNA/hqdefault.jpg"
+			},
+			{
+				"title": "E a Radeon RX 580 8GB era na verdade...",
+				"url": "https://www.youtube.com/watch?v=FJPICyPbOic",
+				"thumb": "https://img.youtube.com/vi/FJPICyPbOic/hqdefault.jpg"
+			}
+		],
+		"futebol": [
+			{
+				"title": "HISTÓRICO! BENFICA FAZ 6 E JOGA O PSG PARA O SEGUNDO LUGAR DO GRUPO NA CHAMPIONS LEAGUE",
+				"url": "https://www.youtube.com/watch?v=VtKfjzVvKz0",
+				"thumb": "https://img.youtube.com/vi/VtKfjzVvKz0/hqdefault.jpg"
+			},
+			{
+				"title": "CONVOCAÇÃO DA SELEÇÃO AO VIVO! VEJA A LISTA DE TITE PARA A COPA DO MUNDO NO CATAR",
+				"url": "https://www.youtube.com/watch?v=JYJj7sIrvS4",
+				"thumb": "https://img.youtube.com/vi/JYJj7sIrvS4/hqdefault.jpg"
+			},
+			{
+				"title": "LIVERPOOL VENCE TOTTENHAM NA PREMIER LEAGUE COM FALHA BIZARRA, SHOW DE SALAH E PARTIDAÇA DE ALISSON",
+				"url": "https://www.youtube.com/watch?v=rLw_jKOMIpI",
+				"thumb": "https://img.youtube.com/vi/rLw_jKOMIpI/hqdefault.jpg"
+			},
+			{
+				"title": "ARSENAL VENCE CHELSEA COM GOL DE GABRIEL MAGALHÃES E ASSUME LIDERANÇA DA PREMIER LEAGUE",
+				"url": "https://www.youtube.com/watch?v=kcB-oXcFc1A",
+				"thumb": "https://img.youtube.com/vi/kcB-oXcFc1A/hqdefault.jpg"
+			},
+			{
+				"title": "NEYMAR MARCA E DÁ ASSISTÊNCIA, E PSG VENCE O LORIENT NO CAMPEONATO FRANCÊS I MELHORES MOMENTOS",
+				"url": "https://www.youtube.com/watch?v=-VUA1AWjBnY",
+				"thumb": "https://img.youtube.com/vi/-VUA1AWjBnY/hqdefault.jpg"
+			},
+			{
+				"title": "CONVOCAÇÃO DA SELEÇÃO AO VIVO! VEJA A LISTA DE TITE PARA A COPA DO MUNDO NO CATAR",
+				"url": "https://www.youtube.com/watch?v=4JxzQHJdqBM",
+				"thumb": "https://img.youtube.com/vi/4JxzQHJdqBM/hqdefault.jpg"
+			}
+		],
+		"carros": [
+			{
+				"title": "Novo Peugeot 208 1.0 CAMPEÃO NO CONSUMO - Carro Chefe",
+				"url": "https://www.youtube.com/watch?v=9zyZ69eD_lY",
+				"thumb": "https://img.youtube.com/vi/9zyZ69eD_lY/hqdefault.jpg"
+			}
+		]
+	}
+}
